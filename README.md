@@ -1,4 +1,4 @@
-# Project Overview: Customer Churn Prediction
+# Customer Churn Prediction
 
 ## Objective:
 The primary objective of this project is to predict customer churn for an e-commerce platform based on historical customer behavior and demographic data. By leveraging machine learning models, this project aims to identify customers who are at a higher risk of leaving the platform, allowing for targeted retention strategies. The project emphasizes data cleaning, feature engineering, and model evaluation to provide actionable insights.
