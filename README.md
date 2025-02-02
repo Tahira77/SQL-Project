@@ -24,12 +24,6 @@ Exploratory data analysis (EDA) was conducted to uncover patterns in the data:
 - **Segmentation:** Segmenting customers based on attributes such as payment method and preferred order category revealed significant differences in churn rates.
 - **Key Features Influencing Churn:** Identified factors like city tier, marital status, and order category preference that had strong correlations with churn likelihood.
 
-## Machine Learning Model:
-The project also involves applying machine learning models to predict churn:
-- **Model Selection:** Several models were evaluated, including logistic regression, decision trees, and random forests.
-- **Feature Importance:** Feature selection and importance analysis were conducted to determine which features most effectively predicted churn.
-- **Model Evaluation:** The model performance was evaluated using accuracy, precision, recall, F1-score, and AUC-ROC curves to ensure reliability and robustness.
-
 ## Conclusion:
 This churn prediction project provides valuable insights into customer retention strategies. By identifying high-risk customers, businesses can proactively engage with them through personalized offers, customer support, and targeted campaigns. The final model, once fine-tuned, can be integrated into a live environment to predict churn in real-time and guide decision-making.
 
